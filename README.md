@@ -62,7 +62,5 @@ To run this project locally, follow these steps:
 
 ## Demonstrating Pictures
 
-<img width="1507" alt="Screenshot 2024-08-01 at 02 42 36" src="https://github.com/user-attachments/assets/f10b8651-0a0f-4e56-a853-91b64e401df8">
-<img width="1496" alt="Screenshot 2024-08-01 at 02 42 55" src="https://github.com/user-attachments/assets/8adc83e6-be59-4146-b765-133cc457c556">
-
-# coding-project-template
+<img width="1507" alt="Screenshot 2024-08-01 at 02 42 36" src="https://github.com/user-attachments/assets/6e933307-f4ed-4be7-90b1-cedfc0b56aaa">
+<img width="1496" alt="Screenshot 2024-08-01 at 02 42 55" src="https://github.com/user-attachments/assets/bb6358da-c75d-427e-83b8-2ccc4d0c1751">
